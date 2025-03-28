@@ -9,7 +9,7 @@ python.exe -m PyInstaller -F -i source-content.ico emulator.py
 
 ### Credits
 + pmein1 - Server developer and support
-+ cystface-man - Server developer and support
++ cystface-man - Server developer and support + python 3 port (big cool)
 + Dormine - Original python poc emulator code and updates
 + Tane - Original app update code
 + ymgve - Beta 2002/2003 and tracker coding
